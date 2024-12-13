@@ -6,5 +6,5 @@ This folder contains the code/notebooks to reproduce the plots in the project re
 
 Within the folder, here are the relevant notebooks
 1. functions.ipnyb contains all implementations
-2. paper_code.ipnym contains example code to run simulations
-3. plots.ipnym contains plotting code to reproduce the figures from the .csv files (produced from previous simulation runs)
+2. paper_code.ipnyb contains example code to run simulations
+3. plots.ipnyb contains plotting code to reproduce the figures from the .csv files (produced from previous simulation runs)
